@@ -1,0 +1,6 @@
+{
+  "name": "KIMAZU Transport - Brazzaville",
+  "description": "KIMAZU Transport : gestion de taxis et accompagnement des propriétaires de véhicules de transport à Pointe-Noire. Mobilité plus rentable et durable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
